@@ -1,0 +1,33 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ex]ternal[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Vv]Logs/
+/[Vv]erification/
+/[Vv]ser[Ss]ettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.IDB
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+.vs/
+.vscode/
+
+# local AI tooling (MCP for Unity), not part of the UI project
+/Packages/com.coplaydev.unity-mcp/
+
+# Local IDE configuration
+/.vsconfig

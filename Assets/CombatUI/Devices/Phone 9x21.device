@@ -1,0 +1,27 @@
+{
+    "friendlyName": "Phone 9x21 (1080x2520)",
+    "version": 1,
+    "screens": [
+        {
+            "width": 1080,
+            "height": 2520,
+            "navigationBarHeight": 0,
+            "dpi": 420.0,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": { "x": 0.0, "y": 0.0, "width": 1080.0, "height": 2520.0 },
+                    "cutouts": []
+                }
+            ]
+        }
+    ],
+    "systemInfo": {
+        "operatingSystem": "Android",
+        "deviceModel": "Generic 9:21 phone",
+        "deviceType": 1,
+        "graphicsDependentData": [
+            { "graphicsDeviceType": 11 }
+        ]
+    }
+}

@@ -1,0 +1,1755 @@
+{
+  "schemaVersion": 1,
+  "sourceFileKey": "wMtwWaYIiKUchUdq5YdTm5",
+  "sourceFileURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3761-2",
+  "exportedReadOnly": true,
+  "canvasModifiedByExport": false,
+  "scope": "Stable full component files and preserved original bitmap image fills. Temporary download URLs, session identifiers, intermediate vector layers, and tutorial/slide crops are excluded from this manifest.",
+  "vectorRenderScale": 4,
+  "assets": [
+    {
+      "name": "BoardPanel",
+      "sourceNodeId": "3798:4464",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4464",
+      "nodeDimensions": [
+        128,
+        128
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "BoardPanel.svg",
+          "role": "original-full-svg",
+          "bytes": 235,
+          "sha256": "647e55f1c47cc0958e9be6a8bb07a7f8d2e6c3b37aff3719ad60cedd65130e5f",
+          "exportDimensions": [
+            128.0,
+            128.0
+          ]
+        },
+        {
+          "file": "BoardPanel.png",
+          "role": "unity-sprite",
+          "bytes": 6337,
+          "sha256": "a05e9bdbf89e009917c3e77b5080cf567488c6f251b0608036ab91a19e792606",
+          "pixelDimensions": [
+            512,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boat",
+      "sourceNodeId": "3798:4071",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4071",
+      "nodeDimensions": [
+        193.9827423095703,
+        156
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "Boat.svg",
+          "role": "original-full-svg",
+          "bytes": 55862,
+          "sha256": "7ead4bcb709880e1cb0e211c2e0f033329ac335744d9a253afc8b0f313739f8a",
+          "exportDimensions": [
+            195.0,
+            156.0
+          ]
+        },
+        {
+          "file": "Boat.png",
+          "role": "unity-sprite",
+          "bytes": 78907,
+          "sha256": "c492f862c04f2281fd0ebe7a367ed9a0205875258e522e7060fede62cf22cdca",
+          "pixelDimensions": [
+            780,
+            624
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BoosterFrame",
+      "sourceNodeId": "3798:4828",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4828",
+      "nodeDimensions": [
+        58,
+        58
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "BoosterFrame.svg",
+          "role": "original-full-svg",
+          "bytes": 745,
+          "sha256": "511e89fe975405232db7523e39fa8d92e01d4c4160b5a09b7deb4615c62bf26b",
+          "exportDimensions": [
+            58.0,
+            58.0
+          ]
+        },
+        {
+          "file": "BoosterFrame.png",
+          "role": "unity-sprite",
+          "bytes": 4923,
+          "sha256": "a16f3f3779e76cffc96efb987a66107bb54748125dd15f5d6b7acf7676d1feb5",
+          "pixelDimensions": [
+            232,
+            232
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boss",
+      "sourceNodeId": "3798:5758",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-5758",
+      "nodeDimensions": [
+        124.53175354003906,
+        94.8471450805664
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "Boss.svg",
+          "role": "original-full-svg",
+          "bytes": 159569,
+          "sha256": "f3253fbd120c3fa09178f4ab8deec6ee13cfc98938af9898234457def565567a",
+          "exportDimensions": [
+            156.0,
+            96.0
+          ]
+        },
+        {
+          "file": "Boss.png",
+          "role": "unity-sprite",
+          "bytes": 50495,
+          "sha256": "1ebba02a5b05819a5dca6d071e9807ecb7883235b64f8db5c54f90016982c9b8",
+          "pixelDimensions": [
+            624,
+            384
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BulletChili",
+      "sourceNodeId": "3798:5516",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-5516",
+      "nodeDimensions": [
+        44,
+        44
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "BulletChili.svg",
+          "role": "original-full-svg",
+          "bytes": 3805,
+          "sha256": "975706f13f5d9319eab76f1756a30b882c51ba182e26958b9b8b733481edff1e",
+          "exportDimensions": [
+            44.0,
+            44.0
+          ]
+        },
+        {
+          "file": "BulletChili.png",
+          "role": "unity-sprite",
+          "bytes": 6511,
+          "sha256": "15316eb9233ad3eb9b09d46fe474dc524678bdc6e63f1ddb171f4cc7eea32ae5",
+          "pixelDimensions": [
+            176,
+            176
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BulletPumpkin",
+      "sourceNodeId": "3798:5503",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-5503",
+      "nodeDimensions": [
+        44,
+        44
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "BulletPumpkin.svg",
+          "role": "original-full-svg",
+          "bytes": 3837,
+          "sha256": "52117b2a6fd6265b3065be23877323086165097d0dafb91a2321327474bea9b6",
+          "exportDimensions": [
+            44.0,
+            44.0
+          ]
+        },
+        {
+          "file": "BulletPumpkin.png",
+          "role": "unity-sprite",
+          "bytes": 6937,
+          "sha256": "8d7a2db6d0f7c1d813b6690697a18666a3eeaa0f3f556ea2cb9c4d67ee36dfb7",
+          "pixelDimensions": [
+            176,
+            176
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ButtonBigCyan",
+      "sourceNodeId": "3798:4448",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4448",
+      "nodeDimensions": [
+        120,
+        54
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "ButtonBigCyan.svg",
+          "role": "original-full-svg",
+          "bytes": 1373,
+          "sha256": "b5152f2afbb7a189fa59a289ea1bde47325cb82cf2b0df36776facdd93e6efa0",
+          "exportDimensions": [
+            120.0,
+            54.0
+          ]
+        },
+        {
+          "file": "ButtonBigCyan.png",
+          "role": "unity-sprite",
+          "bytes": 4573,
+          "sha256": "9f4c4b6fa1a810537a7bf6c10a06ddcd315e8661f6ba3fc49c59078bf8395af4",
+          "pixelDimensions": [
+            480,
+            216
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ButtonBuy",
+      "sourceNodeId": "3798:4456",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4456",
+      "nodeDimensions": [
+        82,
+        82
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "ButtonBuy.svg",
+          "role": "original-full-svg",
+          "bytes": 582,
+          "sha256": "b144a0e926cc119848b48e58722dff6590b877b3bc86533bc4e3859092f8250f",
+          "exportDimensions": [
+            82.0,
+            82.0
+          ]
+        },
+        {
+          "file": "ButtonBuy.png",
+          "role": "unity-sprite",
+          "bytes": 7192,
+          "sha256": "3890cef4784897ed9df1a449505b3e1814a53376c05bc39af456440c62f3b9c1",
+          "pixelDimensions": [
+            328,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ButtonGreen",
+      "sourceNodeId": "3798:4452",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4452",
+      "nodeDimensions": [
+        120,
+        54
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "ButtonGreen.svg",
+          "role": "original-full-svg",
+          "bytes": 1382,
+          "sha256": "66148badc80dbbcebc3210b1961c4f028021490a93a5c906aa3ca879d13e9395",
+          "exportDimensions": [
+            120.0,
+            54.0
+          ]
+        },
+        {
+          "file": "ButtonGreen.png",
+          "role": "unity-sprite",
+          "bytes": 4596,
+          "sha256": "1eaea537667ab0ec0881e10c1b407b7d7603bd7da02279ebb1cb404314243b6b",
+          "pixelDimensions": [
+            480,
+            216
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ButtonYellow",
+      "sourceNodeId": "3798:4454",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4454",
+      "nodeDimensions": [
+        120,
+        54
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "ButtonYellow.svg",
+          "role": "original-full-svg",
+          "bytes": 1382,
+          "sha256": "cfe5ecf866429180be4b9c8f60f946352c60b20422d31facc4f38d5ab7df6567",
+          "exportDimensions": [
+            120.0,
+            54.0
+          ]
+        },
+        {
+          "file": "ButtonYellow.png",
+          "role": "unity-sprite",
+          "bytes": 4544,
+          "sha256": "56c70e079e70936ddd32f4b48b15b264404627341c4f39548ef6a85b63cdc150",
+          "pixelDimensions": [
+            480,
+            216
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BuyBar",
+      "sourceNodeId": "3798:4442",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4442",
+      "nodeDimensions": [
+        874,
+        201
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "BuyBar.svg",
+          "role": "original-full-svg",
+          "bytes": 1387,
+          "sha256": "82f2b9a1ae491b10f6683bc9152dc5086bfba57bb89083897476c12dafcb7a44",
+          "exportDimensions": [
+            876.0,
+            201.0
+          ]
+        },
+        {
+          "file": "BuyBar.png",
+          "role": "unity-sprite",
+          "bytes": 13522,
+          "sha256": "f53f0a4b23faec8bf4e1610712c8f37f9ec7e183b6dfbfa68c4041c7cd392024",
+          "pixelDimensions": [
+            3504,
+            804
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CharEmo",
+      "sourceNodeId": "3798:5043",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-5043",
+      "nodeDimensions": [
+        63.053279876708984,
+        94.35537719726562
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "CharEmo.svg",
+          "role": "original-full-svg",
+          "bytes": 12981,
+          "sha256": "afc8e51c1326ac40695d7493049a7696e75c2f1a137208ad7e5ae28f7484baec",
+          "exportDimensions": [
+            66.0522,
+            97.3552
+          ]
+        },
+        {
+          "file": "CharEmo.png",
+          "role": "unity-sprite",
+          "bytes": 25608,
+          "sha256": "dcfe37b03622933bb738af93cacf168e72f7f699995c29ff4ce7ca7d0d3a8b7a",
+          "pixelDimensions": [
+            264,
+            388
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CharNerd",
+      "sourceNodeId": "3798:4970",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4970",
+      "nodeDimensions": [
+        74.59984588623047,
+        108.17903900146484
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "CharNerd.svg",
+          "role": "original-full-svg",
+          "bytes": 15111,
+          "sha256": "9be7d6e2221fd3a741ceb8f8f82300a582397e0f629adfbb032aadc29c505f2e",
+          "exportDimensions": [
+            77.5999,
+            111.178
+          ]
+        },
+        {
+          "file": "CharNerd.png",
+          "role": "unity-sprite",
+          "bytes": 37824,
+          "sha256": "09b54c61022cd2ce9ea32882a80340d131e890a22d4aa292d4bda0f8e61f2511",
+          "pixelDimensions": [
+            312,
+            444
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CharSexy",
+      "sourceNodeId": "3798:5537",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-5537",
+      "nodeDimensions": [
+        91.08045196533203,
+        98.9273681640625
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "CharSexy.svg",
+          "role": "original-full-svg",
+          "bytes": 25335,
+          "sha256": "2da7accb591b1de2537f93f3183d04eaaacfeaf51cd22e2376dd047df3e707e2",
+          "exportDimensions": [
+            93.0,
+            101.0
+          ]
+        },
+        {
+          "file": "CharSexy.png",
+          "role": "unity-sprite",
+          "bytes": 40556,
+          "sha256": "361c60b310c74635a2651890730ab511308a733ddd301badcb0b52cdb6216b7c",
+          "pixelDimensions": [
+            372,
+            404
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CharTomboy",
+      "sourceNodeId": "3798:5104",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-5104",
+      "nodeDimensions": [
+        77.33352661132812,
+        113.51927185058594
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "CharTomboy.svg",
+          "role": "original-full-svg",
+          "bytes": 16015,
+          "sha256": "a2d96d88a000364fae8b9d266115d018b41f4214f1e160088d87a4884f44bb08",
+          "exportDimensions": [
+            78.8335,
+            116.519
+          ]
+        },
+        {
+          "file": "CharTomboy.png",
+          "role": "unity-sprite",
+          "bytes": 38667,
+          "sha256": "5b025493f687bc0f3e3874201b74f857d63ba39b0b1510e20a9589843928b32b",
+          "pixelDimensions": [
+            316,
+            468
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Connector",
+      "sourceNodeId": "3798:4492",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4492",
+      "nodeDimensions": [
+        32,
+        32
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "Connector.svg",
+          "role": "original-full-svg",
+          "bytes": 1708,
+          "sha256": "ebef690e89c693ed9d96a2c0bdf4e3b9407e8dcdd94604a95a26811449ad42ca",
+          "exportDimensions": [
+            32.0,
+            32.0
+          ]
+        },
+        {
+          "file": "Connector.png",
+          "role": "unity-sprite",
+          "bytes": 4833,
+          "sha256": "57a0ea0cbdf8de972b49a6f6630fc1b06ae840bc04de9bb122c2d1c7ea09fb9b",
+          "pixelDimensions": [
+            128,
+            128
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ConnectorHighlight",
+      "sourceNodeId": "3798:4497",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4497",
+      "nodeDimensions": [
+        32,
+        32
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "ConnectorHighlight.svg",
+          "role": "original-full-svg",
+          "bytes": 3340,
+          "sha256": "773af33f32998b963c3eaa37ea305988db0b34ec36051a43c5a1bb8af729571f",
+          "exportDimensions": [
+            32.0,
+            32.0
+          ]
+        },
+        {
+          "file": "ConnectorHighlight.png",
+          "role": "unity-sprite",
+          "bytes": 19253,
+          "sha256": "4407b0cf0bb7b20648719993dda543d94c473b62a55840440f626860703f8141",
+          "pixelDimensions": [
+            128,
+            128
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Environment",
+      "sourceNodeId": "3798:4014",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4014",
+      "nodeDimensions": [
+        874,
+        874
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "Environment.svg",
+          "role": "original-full-svg",
+          "bytes": 193738,
+          "sha256": "7a53c6af2b545b24fb38e34f5f366fa1c5a38631a839b9255d6a914edebe9d4e",
+          "exportDimensions": [
+            874.0,
+            874.0
+          ]
+        },
+        {
+          "file": "Environment.png",
+          "role": "unity-sprite",
+          "bytes": 384151,
+          "sha256": "0412f67af8dccd3eb9cbe16cb3e871093be52237c1500c2a7fd9cf3138f4ac86",
+          "pixelDimensions": [
+            3496,
+            3496
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flag",
+      "sourceNodeId": "3798:4902",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4902",
+      "nodeDimensions": [
+        14,
+        19.065120697021484
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "Flag.svg",
+          "role": "original-full-svg",
+          "bytes": 2507,
+          "sha256": "8a6c85279c10d7c3e00f48e61f61e53f506c7e1c87ec125dd3cf6b367761f3fc",
+          "exportDimensions": [
+            14.0,
+            20.0
+          ]
+        },
+        {
+          "file": "Flag.png",
+          "role": "unity-sprite",
+          "bytes": 918,
+          "sha256": "354af4d19857e300396de24b4919fcfca16401e2f3789f392fad29c06a252b4f",
+          "pixelDimensions": [
+            56,
+            80
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FlowerCritDmg",
+      "sourceNodeId": "3798:6614",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-6614",
+      "nodeDimensions": [
+        36.0,
+        36.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "FlowerCritDmg_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 14405,
+          "sha256": "5ff94987c8881aa6a35bd6990770ad82dad715705c8755921b9f3fc252ece48d",
+          "exportDimensions": [
+            36.0,
+            36.0
+          ]
+        },
+        {
+          "file": "FlowerCritDmg_Full.png",
+          "role": "unity-sprite",
+          "bytes": 9456,
+          "sha256": "13c44cb0cdece971d344a53e327a1da1e65b86f251b4f722c27c942aaf96b70f",
+          "pixelDimensions": [
+            144,
+            144
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FlowerExtraGold",
+      "sourceNodeId": "3798:6510",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-6510",
+      "nodeDimensions": [
+        36.0,
+        36.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "FlowerExtraGold_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 23048,
+          "sha256": "a3147cb54c09d1f41274c9d0e7a2df890a9a3b87cee41f2f88bb7eeb746c35c6",
+          "exportDimensions": [
+            37.0,
+            38.0
+          ]
+        },
+        {
+          "file": "FlowerExtraGold_Full.png",
+          "role": "unity-sprite",
+          "bytes": 10634,
+          "sha256": "42d2dc275f3bd835e098e1e7006cdc6808e7e059f9d3cb7858d816e5ca0a3f04",
+          "pixelDimensions": [
+            148,
+            152
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FlowerLuck",
+      "sourceNodeId": "3798:6564",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-6564",
+      "nodeDimensions": [
+        36.0,
+        36.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "FlowerLuck_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 12310,
+          "sha256": "b6a639f4d1ae71e0dc2af8dbe2aca7c8e29cb17dd245849cdf366a003a0a41d0",
+          "exportDimensions": [
+            36.0,
+            36.0
+          ]
+        },
+        {
+          "file": "FlowerLuck_Full.png",
+          "role": "unity-sprite",
+          "bytes": 7642,
+          "sha256": "b7a6ff87eea88a9ea47dd4d644c12016d368a2bc6b3c512aca87d1c89eda35d2",
+          "pixelDimensions": [
+            144,
+            144
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FlowerRegeneration",
+      "sourceNodeId": "3798:6652",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-6652",
+      "nodeDimensions": [
+        36.0,
+        36.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "FlowerRegeneration_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 19485,
+          "sha256": "202ffb6b6832e86f9f1f14bda5887bbf65dd935ff07378fddf024a7099363d83",
+          "exportDimensions": [
+            36.0,
+            36.0
+          ]
+        },
+        {
+          "file": "FlowerRegeneration_Full.png",
+          "role": "unity-sprite",
+          "bytes": 6494,
+          "sha256": "c4113bce8bfc684d2ff1af6524f72aaf519fe26595c88b0240a8f5183b0dbe8b",
+          "pixelDimensions": [
+            144,
+            144
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gear1",
+      "sourceNodeId": "3798:4695",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4695",
+      "nodeDimensions": [
+        48.0,
+        48.000003814697266
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "Gear1_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 6174,
+          "sha256": "7739939be43efdacb040e365823d2bf3d2f1d401699e6adbc2c250373b921cf3",
+          "exportDimensions": [
+            48.0,
+            48.0
+          ]
+        },
+        {
+          "file": "Gear1_Full.png",
+          "role": "unity-sprite",
+          "bytes": 11196,
+          "sha256": "099216560de13c929a9bf9c47b2cf6a121f4b0a03e45ab1df992777b78fb0073",
+          "pixelDimensions": [
+            192,
+            192
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gear2",
+      "sourceNodeId": "3798:4669",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4669",
+      "nodeDimensions": [
+        48.00000801099077,
+        48.00000801099077
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "Gear2_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 5561,
+          "sha256": "3ddbdb9183c509b89025d137e6e323fa89c0d7c10d5d441bdf9faa7500dea7e4",
+          "exportDimensions": [
+            48.0,
+            48.0
+          ]
+        },
+        {
+          "file": "Gear2_Full.png",
+          "role": "unity-sprite",
+          "bytes": 11956,
+          "sha256": "530160a8848b5dd38f96abd9dbc1a4124a6b19f899da9af749afa2673a862ef7",
+          "pixelDimensions": [
+            192,
+            192
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gear4",
+      "sourceNodeId": "3798:4707",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4707",
+      "nodeDimensions": [
+        48.0,
+        48.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "Gear4_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 11488,
+          "sha256": "0b56d3e9c87bea56e61d578d994dcad2e31acfa62c4470f57a9fb756e92544e6",
+          "exportDimensions": [
+            48.0,
+            48.0
+          ]
+        },
+        {
+          "file": "Gear4_Full.png",
+          "role": "unity-sprite",
+          "bytes": 12039,
+          "sha256": "b0ab352e664e56dad1053e3ef857bc61a49e6735b048e9239577d27396748bee",
+          "pixelDimensions": [
+            192,
+            192
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gear8",
+      "sourceNodeId": "3798:4682",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4682",
+      "nodeDimensions": [
+        48.0,
+        48.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "Gear8_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 6240,
+          "sha256": "80fd8b8769102896e2415ea7a759c188feb630a941915584dca6e2f0165ef065",
+          "exportDimensions": [
+            48.0,
+            48.0
+          ]
+        },
+        {
+          "file": "Gear8_Full.png",
+          "role": "unity-sprite",
+          "bytes": 11624,
+          "sha256": "759026bc0ce966a62002c48117de964dab738adc65026764190836f8d72ef20d",
+          "pixelDimensions": [
+            192,
+            192
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GearAd",
+      "sourceNodeId": "3798:7079",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-7079",
+      "nodeDimensions": [
+        48.0,
+        48.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "GearAd_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 12591,
+          "sha256": "f5fbd5aee0357ac38ae7241ad522ad3538ef3b0b824aa948936b882f2e6d90ca",
+          "exportDimensions": [
+            48.0,
+            48.0
+          ]
+        },
+        {
+          "file": "GearAd_Full.png",
+          "role": "unity-sprite",
+          "bytes": 32387,
+          "sha256": "9d00df5586256f6b85e0e100b7719a1bf698e788615434937e61c772512c576d",
+          "pixelDimensions": [
+            192,
+            192
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GearEarning",
+      "sourceNodeId": "3798:4515",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4515",
+      "nodeDimensions": [
+        48.0,
+        48.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "GearEarning_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 1930,
+          "sha256": "578a6f2576fe8cb410510eea25194de22802c7615622aabb3c1a6f97a013801b",
+          "exportDimensions": [
+            49.0,
+            49.0
+          ]
+        },
+        {
+          "file": "GearEarning_Full.png",
+          "role": "unity-sprite",
+          "bytes": 8136,
+          "sha256": "627280e7a98e129976a67213f02f1ce8b3da4eb049765513909393aea2094993",
+          "pixelDimensions": [
+            196,
+            196
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GearFrozen",
+      "sourceNodeId": "3798:7065",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-7065",
+      "nodeDimensions": [
+        48.0,
+        48.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync PNG at scale=4, rendering the original mixed image/vector component. This is a Figma component render, not a vector rasterization.",
+      "files": [
+        {
+          "file": "GearFrozen_Full.png",
+          "role": "unity-sprite",
+          "bytes": 58437,
+          "sha256": "de098bfa381d9dd1707ba0fd7c86becc1c698375549fe043611a7af3af95eb22",
+          "pixelDimensions": [
+            192,
+            192
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GearMultiplier",
+      "sourceNodeId": "3798:3970",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-3970",
+      "nodeDimensions": [
+        48,
+        48
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "GearMultiplier.svg",
+          "role": "original-full-svg",
+          "bytes": 6884,
+          "sha256": "c30149d6774fe40eff259433eca03cf0fbff9135a86d0900582497562d9a4f40",
+          "exportDimensions": [
+            48.0,
+            48.0
+          ]
+        },
+        {
+          "file": "GearMultiplier.png",
+          "role": "unity-sprite",
+          "bytes": 21161,
+          "sha256": "62f794af9c6e9de127562c9561d3e6eb4496cc84e4a3612a1bc6832787796268",
+          "pixelDimensions": [
+            192,
+            192
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GearRotor",
+      "sourceNodeId": "3798:4503",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4503",
+      "nodeDimensions": [
+        58.0,
+        58.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "GearRotor_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 1033,
+          "sha256": "96f2e41c8ae5578f9df805e46af62fa9a1c029772da0076b4e1f768b02709a11",
+          "exportDimensions": [
+            58.0,
+            58.0
+          ]
+        },
+        {
+          "file": "GearRotor_Full.png",
+          "role": "unity-sprite",
+          "bytes": 8778,
+          "sha256": "17a24522d303e9afb64e6c3e6a4d7328f5f9f239687463827d6c95b282e44f58",
+          "pixelDimensions": [
+            232,
+            232
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GearSpider",
+      "sourceNodeId": "3798:7068",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-7068",
+      "nodeDimensions": [
+        48.0,
+        48.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "GearSpider_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 8020,
+          "sha256": "5016efaabb173ea0d105cfd2a52798643475ef6d43863fccfecbe03ecb651325",
+          "exportDimensions": [
+            48.0,
+            48.0
+          ]
+        },
+        {
+          "file": "GearSpider_Full.png",
+          "role": "unity-sprite",
+          "bytes": 7495,
+          "sha256": "5ccd652f657512d37f05dc898cea442ba5925edc31e4ca6494d144ebdc20db67",
+          "pixelDimensions": [
+            192,
+            192
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GearStats",
+      "sourceNodeId": "3798:4521",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4521",
+      "nodeDimensions": [
+        48.0,
+        48.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "GearStats_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 1930,
+          "sha256": "4758e9ec03eb8a72153022f8c6dad7573761687ea013b83bf56644d9597eccda",
+          "exportDimensions": [
+            49.0,
+            49.0
+          ]
+        },
+        {
+          "file": "GearStats_Full.png",
+          "role": "unity-sprite",
+          "bytes": 8441,
+          "sha256": "cbe2b0c4b9ebbc6be0e95f89734c10c16826e965435da42a1141e1c0307cc924",
+          "pixelDimensions": [
+            196,
+            196
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GearWeapon",
+      "sourceNodeId": "3798:5190",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-5190",
+      "nodeDimensions": [
+        48.0,
+        48.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "GearWeapon_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 1930,
+          "sha256": "fb91fcfacb1db70b0d83a356c520ca08de10ab416535d77ee657cdba75d1a782",
+          "exportDimensions": [
+            49.0,
+            49.0
+          ]
+        },
+        {
+          "file": "GearWeapon_Full.png",
+          "role": "unity-sprite",
+          "bytes": 8559,
+          "sha256": "0ad09f382b975ab0e046234bc41d8968e12305c2caffb3bce3f11dcbeaa6b283",
+          "pixelDimensions": [
+            196,
+            196
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HeartBoom",
+      "sourceNodeId": "3798:6250",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-6250",
+      "nodeDimensions": [
+        33.79591751098633,
+        33.79591751098633
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "HeartBoom_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 15556,
+          "sha256": "a041ad836f48e92ddcbe457b8d9b4250e83a635658c4391649319bec1532b749",
+          "exportDimensions": [
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "file": "HeartBoom_Full.png",
+          "role": "unity-sprite",
+          "bytes": 12298,
+          "sha256": "db448b325cb17367cd024f690e5ee06fe1f5f0735d5a0a130ae651a8c4988ca5",
+          "pixelDimensions": [
+            136,
+            136
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MultiplierIcon",
+      "sourceNodeId": "3798:3971",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-3971",
+      "nodeDimensions": [
+        37,
+        20
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "MultiplierIcon.svg",
+          "role": "original-full-svg",
+          "bytes": 12991,
+          "sha256": "54599479752b87d8763550366166e9e05d917f5286a5a343b6ef3d16d9a7e692",
+          "exportDimensions": [
+            37.0,
+            20.0
+          ]
+        },
+        {
+          "file": "MultiplierIcon.png",
+          "role": "unity-sprite",
+          "bytes": 3975,
+          "sha256": "a759c7313d8aa0e4052882ad960960abff74dab60c6ad18a5bd38e1a12aa63ff",
+          "pixelDimensions": [
+            148,
+            80
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pad",
+      "sourceNodeId": "3798:4831",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4831",
+      "nodeDimensions": [
+        41,
+        40
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "Pad.svg",
+          "role": "original-full-svg",
+          "bytes": 1291,
+          "sha256": "b0b68bd27112fd83abd7df328c041ccb7875afce89bb0e6ee1ff4266423d7a3c",
+          "exportDimensions": [
+            41.0,
+            40.0
+          ]
+        },
+        {
+          "file": "Pad.png",
+          "role": "unity-sprite",
+          "bytes": 5371,
+          "sha256": "c3bf5a2ca59e8108c7dd7710194fa22f70c5a1081505e7ce2f905fa508ac10e0",
+          "pixelDimensions": [
+            164,
+            160
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PadEnabled",
+      "sourceNodeId": "3798:4047",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4047",
+      "nodeDimensions": [
+        41,
+        40
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "PadEnabled.svg",
+          "role": "original-full-svg",
+          "bytes": 1359,
+          "sha256": "e50fcc0e6e1c64c9eaf497f4fec2bc8eeb79af859901a79a54a487a5a4fc2732",
+          "exportDimensions": [
+            41.0,
+            40.0
+          ]
+        },
+        {
+          "file": "PadEnabled.png",
+          "role": "unity-sprite",
+          "bytes": 7420,
+          "sha256": "c6acdb7a78ee113e681e2cbc185578f8959db2635d9f8535cd1b8ed80a7db4cd",
+          "pixelDimensions": [
+            164,
+            160
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PeanutDrone2",
+      "sourceNodeId": "3798:6121",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-6121",
+      "nodeDimensions": [
+        33.79591751098633,
+        33.79591751098633
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync PNG at scale=4, rendering the original mixed image/vector component. This is a Figma component render, not a vector rasterization.",
+      "files": [
+        {
+          "file": "PeanutDrone2_Full.png",
+          "role": "unity-sprite",
+          "bytes": 10770,
+          "sha256": "048ae20664fdc72c74dc0f3e8b679348eb366b07706b507de8f3003800e01e22",
+          "pixelDimensions": [
+            136,
+            136
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SceneMobFast",
+      "sourceNodeId": "3798:3897",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-3897",
+      "nodeDimensions": [
+        46.999996185302734,
+        44.23834228515625
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "SceneMobFast.svg",
+          "role": "original-full-svg",
+          "bytes": 7474,
+          "sha256": "54324515fcc05f96c2762791791809c9aa61c98fb490bcd63358ca3bc323d4d6",
+          "exportDimensions": [
+            48.0,
+            45.0
+          ]
+        },
+        {
+          "file": "SceneMobFast.png",
+          "role": "unity-sprite",
+          "bytes": 10881,
+          "sha256": "a3579549e210ef748bdba4b1ca1d46023c9cc3a21625a4fe03f6ef345d970ab4",
+          "pixelDimensions": [
+            192,
+            180
+          ]
+        }
+      ],
+      "notes": "Original battle instance export; source mirroring is baked into SVG."
+    },
+    {
+      "name": "SceneMobFlying",
+      "sourceNodeId": "3798:3870",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-3870",
+      "nodeDimensions": [
+        36,
+        25
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "SceneMobFlying.svg",
+          "role": "original-full-svg",
+          "bytes": 9551,
+          "sha256": "9e4b91301f73a04fa9f93998c7e6a96ffa1bc772c4fbb2e826dcecfc3d78b745",
+          "exportDimensions": [
+            40.0,
+            28.0
+          ]
+        },
+        {
+          "file": "SceneMobFlying.png",
+          "role": "unity-sprite",
+          "bytes": 8709,
+          "sha256": "4e6e25944229f221b93bff41e558bb8eb63f9b3f01e5acf7627f564ff8ef58c6",
+          "pixelDimensions": [
+            160,
+            112
+          ]
+        }
+      ],
+      "notes": "Original battle instance export; source mirroring is baked into SVG."
+    },
+    {
+      "name": "SceneMobMelee",
+      "sourceNodeId": "3798:3872",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-3872",
+      "nodeDimensions": [
+        29,
+        32
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "SceneMobMelee.svg",
+          "role": "original-full-svg",
+          "bytes": 10959,
+          "sha256": "3972319b1189de3bf2c0d0fd3a8e8408b92a8da9676da1bcb09730e0f4b66cbf",
+          "exportDimensions": [
+            40.0,
+            34.0
+          ]
+        },
+        {
+          "file": "SceneMobMelee.png",
+          "role": "unity-sprite",
+          "bytes": 9381,
+          "sha256": "9ca34428edfc7da9f32dd8f3f15f2cfab2eabfdfd22c7d18d63cd957d4f9b174",
+          "pixelDimensions": [
+            160,
+            136
+          ]
+        }
+      ],
+      "notes": "Original battle instance export; source mirroring is baked into SVG."
+    },
+    {
+      "name": "SceneMobRange",
+      "sourceNodeId": "3798:3877",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-3877",
+      "nodeDimensions": [
+        43,
+        35.33229446411133
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "SceneMobRange.svg",
+          "role": "original-full-svg",
+          "bytes": 8219,
+          "sha256": "61210186d94a8193465e828aabee9d6378616d1f0a7250988267934207917ead",
+          "exportDimensions": [
+            44.0,
+            37.0
+          ]
+        },
+        {
+          "file": "SceneMobRange.png",
+          "role": "unity-sprite",
+          "bytes": 9433,
+          "sha256": "2967d7dc9343ff8888f85caf145882542c2167c62ee05bcc26080a3566eb01a0",
+          "pixelDimensions": [
+            176,
+            148
+          ]
+        }
+      ],
+      "notes": "Original battle instance export; source mirroring is baked into SVG."
+    },
+    {
+      "name": "Skull",
+      "sourceNodeId": "3798:4900",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4900",
+      "nodeDimensions": [
+        11,
+        13
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "Skull.svg",
+          "role": "original-full-svg",
+          "bytes": 3470,
+          "sha256": "18a0b13e07ef8fe186397e79d0722247c399cb20a73b2dff3cdad7c32dfe0fa9",
+          "exportDimensions": [
+            13.0,
+            15.0
+          ]
+        },
+        {
+          "file": "Skull.png",
+          "role": "unity-sprite",
+          "bytes": 1545,
+          "sha256": "45c4af238b3f4d480433f89087dbd0c07606e4f80154b23d6b1110bf85222e03",
+          "pixelDimensions": [
+            52,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Speed",
+      "sourceNodeId": "3798:4058",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4058",
+      "nodeDimensions": [
+        32,
+        32
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "Speed.svg",
+          "role": "original-full-svg",
+          "bytes": 1022,
+          "sha256": "c47a6bce4b1decaac47e002b690ecab2527b46e0ce9a9682fb1996ed5bf88b7e",
+          "exportDimensions": [
+            32.0,
+            32.0
+          ]
+        },
+        {
+          "file": "Speed.png",
+          "role": "unity-sprite",
+          "bytes": 4324,
+          "sha256": "032a7f22f991a33e8639e0bdb950ca089bb8fad58123d2af5ffd135303fba32b",
+          "pixelDimensions": [
+            128,
+            128
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StatusPoison",
+      "sourceNodeId": "3798:6461",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-6461",
+      "nodeDimensions": [
+        68,
+        68
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "StatusPoison.svg",
+          "role": "original-full-svg",
+          "bytes": 7295,
+          "sha256": "b4e447320fdf928bc50661bfc6ea9e809b32fa9097d5a4cf1b4e5f13599666e6",
+          "exportDimensions": [
+            68.0,
+            68.0
+          ]
+        },
+        {
+          "file": "StatusPoison.png",
+          "role": "unity-sprite",
+          "bytes": 15944,
+          "sha256": "ec909f52849d670dabf1cfb7a823b523c70a0f4c78a629fdb0f6b718be261e32",
+          "pixelDimensions": [
+            272,
+            272
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StatusShield",
+      "sourceNodeId": "3798:6473",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-6473",
+      "nodeDimensions": [
+        68,
+        68
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "StatusShield.svg",
+          "role": "original-full-svg",
+          "bytes": 8096,
+          "sha256": "2c7ac348fcc832ed3d015350b5d59dd1b737422a3608fd9e394904e222dc6ab5",
+          "exportDimensions": [
+            68.0,
+            68.0
+          ]
+        },
+        {
+          "file": "StatusShield.png",
+          "role": "unity-sprite",
+          "bytes": 10744,
+          "sha256": "79bc526129ea6d889b620e06e92636b4b4b6c839bc911682f578e153788592c8",
+          "pixelDimensions": [
+            272,
+            272
+          ]
+        }
+      ]
+    },
+    {
+      "name": "StonePhase1",
+      "sourceNodeId": "3798:6111",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-6111",
+      "nodeDimensions": [
+        48.0,
+        48.0
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync PNG at scale=4, rendering the original mixed image/vector component. This is a Figma component render, not a vector rasterization.",
+      "files": [
+        {
+          "file": "StonePhase1_Full.png",
+          "role": "unity-sprite",
+          "bytes": 33945,
+          "sha256": "acfa99dcc037b87541a7ca59340605e458cc4fe9c182aca12b99246839d60248",
+          "pixelDimensions": [
+            192,
+            192
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SunbloomBurst",
+      "sourceNodeId": "3798:6124",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-6124",
+      "nodeDimensions": [
+        33.79591751098633,
+        33.79591751098633
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "SunbloomBurst_Full.svg",
+          "role": "original-full-svg",
+          "bytes": 33924,
+          "sha256": "7562b49b5626d91c0e8f51f88b3d568ff0e138fa19c5f6c8dfaea7a01e09fb60",
+          "exportDimensions": [
+            34.0,
+            34.0
+          ]
+        },
+        {
+          "file": "SunbloomBurst_Full.png",
+          "role": "unity-sprite",
+          "bytes": 13613,
+          "sha256": "afbcda072359e4e0a2a9a76a11b4477655f9f6a9424a8b37ca12997e56546df3",
+          "pixelDimensions": [
+            136,
+            136
+          ]
+        }
+      ]
+    },
+    {
+      "name": "WeaponSlotActive",
+      "sourceNodeId": "3798:4490",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4490",
+      "nodeDimensions": [
+        42,
+        60
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "WeaponSlotActive.svg",
+          "role": "original-full-svg",
+          "bytes": 667,
+          "sha256": "cbb8e5096b3ceaad66c0fd8572585111d55a0cddbbc6fe91a07df7462f949f07",
+          "exportDimensions": [
+            42.0,
+            60.0
+          ]
+        },
+        {
+          "file": "WeaponSlotActive.png",
+          "role": "unity-sprite",
+          "bytes": 3102,
+          "sha256": "09c116ef35c4e0f72e4bbe5a0c6792717d16dee96601cf365b52c8f162649cf1",
+          "pixelDimensions": [
+            168,
+            240
+          ]
+        }
+      ]
+    },
+    {
+      "name": "WeaponSlotDisabled",
+      "sourceNodeId": "3798:4486",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4486",
+      "nodeDimensions": [
+        42,
+        60
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "WeaponSlotDisabled.svg",
+          "role": "original-full-svg",
+          "bytes": 218,
+          "sha256": "62fe9af8ce104c7d1415d553a3dca3de4efa71f8b75b9dfb66f06cad2e58bd7e",
+          "exportDimensions": [
+            42.0,
+            60.0
+          ]
+        },
+        {
+          "file": "WeaponSlotDisabled.png",
+          "role": "unity-sprite",
+          "bytes": 2395,
+          "sha256": "6d7df7e84ced71e4b8748188d00efb6c1c595a8aa97c52a6e900f44d01f39c32",
+          "pixelDimensions": [
+            168,
+            240
+          ]
+        }
+      ]
+    },
+    {
+      "name": "WeaponSlotEmpty",
+      "sourceNodeId": "3798:4488",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-4488",
+      "nodeDimensions": [
+        42,
+        60
+      ],
+      "exportMethod": "Read-only Figma Plugin API node.exportAsync({format: SVG_STRING}); full original SVG retained. PNG rasterized directly from the SVG with resvg at zoom=4.",
+      "files": [
+        {
+          "file": "WeaponSlotEmpty.svg",
+          "role": "original-full-svg",
+          "bytes": 450,
+          "sha256": "831537501baa3ca4da5ac1433e8684358a9ca2c266c5f1369f17c109f5157adc",
+          "exportDimensions": [
+            42.0,
+            60.0
+          ]
+        },
+        {
+          "file": "WeaponSlotEmpty.png",
+          "role": "unity-sprite",
+          "bytes": 2707,
+          "sha256": "8e445aee0cfa59bd2f12075736ef54cb8cfe7e29bf0cd33293ea4d02480a7626",
+          "pixelDimensions": [
+            168,
+            240
+          ]
+        }
+      ]
+    }
+  ],
+  "preservedOriginalBitmaps": [
+    {
+      "file": "GearFrozen.png",
+      "role": "original-downloaded-image-fill",
+      "bytes": 446913,
+      "sha256": "7264e83b114aa11d9b59e14514f49aef66b6d8700d0b47634fcf7d9b7ee4392f",
+      "pixelDimensions": [
+        1024,
+        683
+      ],
+      "sourceNodeId": "3798:7065",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-7065",
+      "exportMethod": "Original uploaded bitmap image fill downloaded through Figma MCP, preserved at its source resolution.",
+      "notes": "Original bitmap used within the corresponding mixed image/vector Figma component; the separate _Full.png file is the 4x Figma component render."
+    },
+    {
+      "file": "StonePhase1.png",
+      "role": "original-downloaded-image-fill",
+      "bytes": 746672,
+      "sha256": "a2e115800b20bd1f1f81710e3fcae5006173c842ae19d99cfe7adc2618600d23",
+      "pixelDimensions": [
+        1748,
+        427
+      ],
+      "sourceNodeId": "3798:6111",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-6111",
+      "exportMethod": "Original uploaded bitmap image fill downloaded through Figma MCP, preserved at its source resolution.",
+      "notes": "Original bitmap used within the corresponding mixed image/vector Figma component; the separate _Full.png file is the 4x Figma component render."
+    },
+    {
+      "file": "PeanutDrone2.png",
+      "role": "original-downloaded-image-fill",
+      "bytes": 10231,
+      "sha256": "2796f59ed90f1a2bb3f2cd57699e9adf04b7204d182c620cd7a6f65d6f9b5974",
+      "pixelDimensions": [
+        223,
+        260
+      ],
+      "sourceNodeId": "3798:6121",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-6121",
+      "exportMethod": "Original uploaded bitmap image fill downloaded through Figma MCP, preserved at its source resolution.",
+      "notes": "Original bitmap used within the corresponding mixed image/vector Figma component; the separate _Full.png file is the 4x Figma component render."
+    },
+    {
+      "file": "BannerSource.png",
+      "role": "original-downloaded-image-fill",
+      "bytes": 854143,
+      "sha256": "c76bc9d6eba835667a36ffac1f70f0454f727bfe2d354d283e7709e19715f92e",
+      "pixelDimensions": [
+        869,
+        1884
+      ],
+      "sourceNodeId": "3798:3832",
+      "sourceURL": "https://www.figma.com/design/wMtwWaYIiKUchUdq5YdTm5?node-id=3798-3832",
+      "exportMethod": "Original uploaded bitmap image fill downloaded through Figma MCP, preserved at its source resolution.",
+      "notes": "The original Figma banner layer itself uses an uploaded full-screen screenshot. The full 869x1884 bitmap is preserved, and the Unity banner reproduces the Figma clipped image fill using UV cropping; it is not an independent vector banner.",
+      "displayedLogicalDimensions": [
+        402,
+        96
+      ],
+      "figmaImageFillPercent": {
+        "leftPercent": -0.54,
+        "topPercent": -955,
+        "widthPercent": 100.83,
+        "heightPercent": 1055
+      }
+    }
+  ],
+  "notes": [
+    "The SVG files are original full component exports. Their PNG partners are rasterized from vector at 4x; source bitmap components are separately identified.",
+    "GearFrozen_Full.png, StonePhase1_Full.png and PeanutDrone2_Full.png are Figma PNG exports of mixed image/vector nodes at scale 4, rather than SVG-derived images.",
+    "BannerSource.png is an original Figma image fill containing a screenshot; Unity displays the same banner region by UV cropping the preserved full bitmap.",
+    "Export bounds can include strokes or effects outside nominal node dimensions. File dimensions and current SHA-256 digests are recorded per file."
+  ]
+}
